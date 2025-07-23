@@ -1,0 +1,19 @@
+Polythene
+Plastic Bottle 
+Hard Plastic
+Fruits
+Vegetables
+Wood
+Glass
+Glass Bottle
+Clothes
+Shoes
+Alluminum can
+Utensils
+Paper
+Cardboard
+Sanitary 
+Glubes 
+Syringe
+Metal
+Food_Item
